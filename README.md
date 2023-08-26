@@ -3,7 +3,7 @@
 - 📫 How to reach me. email: pvanderlaat@gmail.com
 - I am the president of the UF Software Engineering Club
   - I have worked on its flagship project, Clubfinity, as a UX designer, developer, and now maintainer/owner.
-  - Check it out here! https://gitlab.com/pvanderlaat/clubfinity
+  - Check it out here! https://gitlab.com/ufsec/clubfinity
 
 <!---
 pvanderlaat/pvanderlaat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
